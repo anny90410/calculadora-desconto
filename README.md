@@ -1,6 +1,7 @@
 #calculadora-desconto
 ## Desconto Rápido
 Este site serve para calcular a quantidade de produtos e o valor final. Para que ele funcione, usamos HTML, CSS e JavaScript.
+
 ![Prévia](./img/img.png)
 
 ## Como rodar o projeto
